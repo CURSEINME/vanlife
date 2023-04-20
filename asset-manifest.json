@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/https://curseinme.github.io/vanlife/static/css/main.67dd212e.css",
-    "main.js": "/https://curseinme.github.io/vanlife/static/js/main.ece48171.js",
+    "main.js": "/https://curseinme.github.io/vanlife/static/js/main.f2fd92e3.js",
     "static/media/bg.jpg": "/https://curseinme.github.io/vanlife/static/media/bg.6b7736cd4dd6b1f1490f.jpg",
     "index.html": "/https://curseinme.github.io/vanlife/index.html",
     "main.67dd212e.css.map": "/https://curseinme.github.io/vanlife/static/css/main.67dd212e.css.map",
-    "main.ece48171.js.map": "/https://curseinme.github.io/vanlife/static/js/main.ece48171.js.map"
+    "main.f2fd92e3.js.map": "/https://curseinme.github.io/vanlife/static/js/main.f2fd92e3.js.map"
   },
   "entrypoints": [
     "static/css/main.67dd212e.css",
-    "static/js/main.ece48171.js"
+    "static/js/main.f2fd92e3.js"
   ]
 }
