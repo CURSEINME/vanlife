@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/vanlife/static/css/main.5610ed86.css",
-    "main.js": "/vanlife/static/js/main.e6bc9da7.js",
-    "static/media/bg.jpg": "/vanlife/static/media/bg.6b7736cd4dd6b1f1490f.jpg",
-    "index.html": "/vanlife/index.html",
-    "main.5610ed86.css.map": "/vanlife/static/css/main.5610ed86.css.map",
-    "main.e6bc9da7.js.map": "/vanlife/static/js/main.e6bc9da7.js.map"
+    "main.css": "/https://curseinme.github.io/vanlife/static/css/main.d1a8e438.css",
+    "main.js": "/https://curseinme.github.io/vanlife/static/js/main.17aa8b0c.js",
+    "static/media/bg.jpg": "/https://curseinme.github.io/vanlife/static/media/bg.6b7736cd4dd6b1f1490f.jpg",
+    "index.html": "/https://curseinme.github.io/vanlife/index.html",
+    "main.d1a8e438.css.map": "/https://curseinme.github.io/vanlife/static/css/main.d1a8e438.css.map",
+    "main.17aa8b0c.js.map": "/https://curseinme.github.io/vanlife/static/js/main.17aa8b0c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5610ed86.css",
-    "static/js/main.e6bc9da7.js"
+    "static/css/main.d1a8e438.css",
+    "static/js/main.17aa8b0c.js"
   ]
 }
