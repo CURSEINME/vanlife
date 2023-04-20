@@ -25,7 +25,7 @@ function Header() {
           to="vans">Vans
         </NavLink>
         <NavLink to={currentUser ? "profile" : "login"}>
-          <img src="/Images/login.svg" />
+          <img src="Images/login.svg" />
         </NavLink>
       </nav>
     </header>
