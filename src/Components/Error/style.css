@@ -1,0 +1,11 @@
+.error-container {
+  padding: 0 25px;
+  padding-bottom: 20px;
+}
+.error-container p{
+  font-size: 25px;
+  font-weight: 700;
+}
+.error-container p:first-child {
+  margin-bottom: 20px;
+}

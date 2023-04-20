@@ -1,0 +1,101 @@
+.vans-container {
+  padding: 55px 27px 88px 27px;
+}
+.vans-title {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 34px;
+
+  margin-bottom: 23px;
+}
+.vans-filter-container {
+  display: flex;
+  gap: 20px;
+
+  align-items: center;
+
+  margin-bottom: 55px;
+}
+.cards-container {
+  display: grid;
+
+  grid-template: 1fr / 1fr 1fr;
+
+  column-gap: 34px;
+  row-gap: 27px;
+}
+.card img {
+  max-width: 229.23px;
+
+  border-radius: 5px;
+}
+.card-row {
+  display: flex;
+
+  justify-content: space-between;
+
+  margin-top: 20px;
+}
+.card-row h3{
+  font-weight: 600;
+  font-size: 20px;
+}
+.card-price {
+  display: flex;
+
+  flex-direction: column;
+}
+.price {
+  font-weight: 600;
+  font-size: 20px;
+}
+.card-price div:last-child{
+  font-weight: 500;
+  font-size: 14px;
+
+  align-self: flex-end;
+}
+.type {
+  padding: 8px 15px;
+  border-radius: 5px;
+
+  display: inline-flex;
+
+  background-color: #FFEAD0;;
+
+  text-transform: capitalize;
+
+  font-size: 16px;
+}
+.type.simple.selected, .type.simple:hover {
+  background: #E17654;
+}
+.type.rugged.selected, .type.rugged:hover {
+  background: #115E59;
+}
+.type.luxury.selected, .type.luxury:hover {
+  background: #161616;
+
+  color: white;
+}
+.type.selected {
+  color: #FFEAD0;
+}
+.type.clear-filters {
+  padding: 0;
+  background-color: inherit;
+
+  margin-left: 20px;
+
+  text-decoration: underline;
+}
+.type.clear-filters:hover {
+  text-decoration: none;
+}
+.vans-loading {
+  font-size: 30px;
+  font-weight: 700;
+
+  padding: 30px 0 0 25px;
+
+}

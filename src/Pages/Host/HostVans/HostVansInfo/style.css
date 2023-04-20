@@ -1,0 +1,15 @@
+.van-info-container {
+  display: flex;
+  flex-direction: column;
+
+  gap: 18px;
+}
+.van-info-container div span:first-child {
+  font-weight: 700;
+}
+.van-info-container div:nth-child(2) span:last-child {
+  text-transform: capitalize;
+}
+.van-info-container div:nth-child(3) span:last-child{
+  line-height: 21px;
+}

@@ -1,0 +1,40 @@
+.host-vans-items {
+  display: flex;
+  flex-direction: column;
+
+  gap: 15px;
+}
+.host-vans-container h1 {
+  font-weight: 700;
+  font-size: 32px;
+  color: #161616; 
+
+  margin-bottom: 32px;
+}
+.van {
+  display: flex;
+
+  align-items: center;
+
+  background: #FFFFFF;
+  border-radius: 6px;
+
+  padding: 18px 24px;
+}
+.van-title {
+  font-weight: 600;
+  font-size: 20px;
+
+  margin-bottom: 5px;
+}
+.van img{
+  max-width: 65px;
+
+  border-radius: 3.73585px;
+}
+.van-main {
+  display: flex;
+  flex-direction: column;
+
+  margin-left: 17px;
+}

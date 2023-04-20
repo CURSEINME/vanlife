@@ -1,0 +1,38 @@
+.profile-container {
+  display: flex;
+  flex-direction: column;
+
+  padding: 40px 25px;
+}
+.profile-img {
+  width: 180px;
+}
+.profile-main {
+  display: flex;
+  margin-bottom: 50px;
+}
+.profile-button {
+  font-size: 18px;
+  margin: 0 auto;
+
+  color: white;
+  background-color: black;
+  padding: 12px 22px;
+  border-radius: 10px;
+}
+.profile-avatar {
+  gap: 10px;
+  font-size: 20px;
+  align-items: center;
+
+  display: flex;
+  flex-direction: column;
+
+  margin-right: 30px;
+}
+.profile-avatar img {
+  border-radius: 10px;
+}
+.profile-email {
+  font-size: 15px;
+}

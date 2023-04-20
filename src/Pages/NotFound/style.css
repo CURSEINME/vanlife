@@ -1,0 +1,32 @@
+.notfound-container {
+  display: flex;
+
+  flex-direction: column;
+
+  padding: 105px 25px;
+}
+.notfound-container p {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+
+  text-align: center;
+}
+.notfound-container a {
+  background: #161616;
+  border-radius: 4.98319px;
+
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+
+  color: white;
+
+  text-align: center;
+  
+  width: 100%;
+
+  padding: 17px 0;
+
+  margin-top: 30px;
+}

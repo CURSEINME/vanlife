@@ -1,0 +1,44 @@
+.about-content {
+  padding: 39px 27px;
+}
+.about-content p {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  color: #161616;
+}
+.about-content h1 {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 38px;
+  color: #161616;  
+
+  margin-bottom: 31px;
+}
+.about-van {
+  padding: 32px 37px;
+
+  background: #FFCC8D;
+  border-radius: 5px;
+
+  margin-top: 30px;
+}
+.about-van h3 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+  color: #161616;
+
+  margin-bottom: 25px;
+}
+.about-van a {
+  font-weight: 700;
+  font-size: 15.9462px;
+  line-height: 24px;
+  color: #FFFFFF;
+  
+  padding: 12px 22px;
+
+  background: #161616;
+  border-radius: 10px;
+}

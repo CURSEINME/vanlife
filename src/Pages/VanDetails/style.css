@@ -1,0 +1,43 @@
+.detail-card {
+  padding: 40px 27px 80px 27px;
+}
+.detail-card img {
+  max-width: 497.32px;
+
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+.detail-card-title {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 34px; 
+
+  margin: 20px 0;
+}
+.back:hover {
+  text-decoration: underline;
+}
+.detail-card-price span:first-child{
+  font-weight: 700;
+  font-size: 20px;
+}
+.detail-card-desc {
+  margin: 25px 0;
+
+  font-weight: 500;
+  line-height: 24px;
+}
+.detail-card button {
+  background: #FF8C38;
+  border-radius: 4.98319px; 
+
+  width: 100%;
+
+  padding: 10px 0;
+
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 32px;
+  
+  color: white;
+}

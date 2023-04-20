@@ -1,0 +1,25 @@
+.host-container { 
+  padding: 33px 27px 55px 27px;
+}
+.host-nav {
+  gap: 29px;
+  display: flex;
+
+  margin-bottom: 45px;
+}
+.host-link:hover {
+  font-weight: 700;
+  text-decoration-line: underline;
+  color: #161616; 
+}
+.host-active-link {
+  font-weight: 700;
+  font-size: 18px;
+  color: #161616;
+  text-decoration-line: underline;
+}
+.host-link {
+  font-weight: 500;
+  font-size: 18px;
+  color: #4D4D4D;
+}

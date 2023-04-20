@@ -1,0 +1,36 @@
+header {
+  background: #FFF7ED;
+  display: flex;
+  align-items: center;
+  padding: 36px 25px;
+  justify-content: space-between;
+}
+header a { 
+  color: #4D4D4D;
+}
+header a:hover {
+  /* text-decoration-line: underline; */
+  color: #161616; 
+}
+header nav {
+  display: flex;
+  gap: 13px;
+}
+.logo {
+  font-weight: 900;
+  font-size: 25.3531px;
+  line-height: 40px;
+  
+  color: #000000;
+}
+.active-link {
+  /* text-decoration-line: underline; */
+  color: #161616;  
+}
+.log-out-btn {
+  font-family: "Inter";
+  background-color: inherit;
+  font-weight: 500;
+  font-size: 15px;
+  /* padding-bottom: 5px; */
+}
